@@ -1,0 +1,16 @@
+{
+  "name": "kunna-fetch",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "German Hurtado Rodriguez",
+  "license": "ISC"
+}
